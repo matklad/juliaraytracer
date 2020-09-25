@@ -1,0 +1,4 @@
+name = "juliaraytracer"
+uuid = "a8599894-f832-11ea-11dc-23719c78ca1b"
+authors = ["Aleksey Kladov <aleksey.kladov@gmail.com>"]
+version = "0.1.0"
